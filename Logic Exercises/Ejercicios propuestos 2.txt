@@ -1,0 +1,18 @@
+🔁 Ejercicio 1: Números pares con loops
+Escribe una función numeros_pares(n) que reciba un número n y retorne una lista con todos los números pares desde 0 hasta n (inclusive si n es par).
+
+Ejemplo:
+numeros_pares(10)  # → [0, 2, 4, 6, 8, 10]
+
+
+🧮 Ejercicio 2: Contar elementos únicos
+Dada una lista, escribe una función contar_unicos(lista) que retorne cuántos elementos únicos (no repetidos) tiene.
+
+Ejemplo:
+contar_unicos([1, 2, 2, 3, 4, 4])  # → 4
+
+🧮 Ejercicio 3: Tabla de multiplicar
+Escribe una función tabla_multiplicar(n) que reciba un número y devuelva una lista con los resultados de su tabla del 1 al 10.
+
+Ejemplo:
+tabla_multiplicar(5)  # → [5, 10, 15, 20, ..., 50]

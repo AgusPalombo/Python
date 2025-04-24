@@ -1,0 +1,50 @@
+Ideas de Ejercicios de Lógica con Python
+
+----------------------------------------
+Adivina el Número
+
+Instrucciones:
+El programa genera un número aleatorio en un rango determinado (por ejemplo, 1 a 100) y le pide al usuario que adivine el número. Después de cada intento, el programa indica si el número ingresado es mayor o menor que el número secreto. El juego continúa hasta que el usuario acierta.
+
+Explicación corta:
+Este ejercicio refuerza el uso de ciclos, condicionales y manejo de entrada/salida en Python.
+
+----------------------------------------
+Secuencia Fibonacci
+
+Instrucciones:
+Crea un programa que solicite al usuario la cantidad de términos y genere la secuencia de Fibonacci, en la cual cada número es la suma de los dos anteriores, empezando por 0 y 1.
+Explicación corta:
+Ideal para practicar bucles y entender la generación de series numéricas mediante iteración o recursión.
+
+----------------------------------------
+Comprobador de Palíndromos
+
+Instrucciones:
+Escribe una función que verifique si una palabra o frase es un palíndromo. El programa debe ignorar mayúsculas, espacios y, si lo deseas, signos de puntuación.
+Explicación corta:
+Este ejercicio ayuda a trabajar con cadenas de texto, condicionales y técnicas de normalización de datos.
+
+----------------------------------------
+Suma de Dígitos
+
+Instrucciones:
+Desarrolla un programa que solicite un número entero al usuario y sume todos sus dígitos, mostrando el resultado final.
+Explicación corta:
+Es útil para practicar operaciones aritméticas, manipulación de cadenas y/o uso de bucles.
+
+----------------------------------------
+Calculadora de Factorial
+
+Instrucciones:
+Crea una función que calcule el factorial de un número ingresado por el usuario. Puedes implementar la solución de forma iterativa o recursiva.
+Explicación corta:
+Este ejercicio refuerza el entendimiento de los bucles y/o la recursión, además de trabajar con operaciones matemáticas.
+
+----------------------------------------
+Lista de Números Primos
+
+Instrucciones:
+Escribe un programa que solicite un número N y genere una lista con todos los números primos desde 2 hasta N. El programa debe incluir una función que verifique si un número es primo.
+Explicación corta:
+Este ejercicio es excelente para practicar condicionales, bucles anidados y la lógica detrás de la detección de números primos.
